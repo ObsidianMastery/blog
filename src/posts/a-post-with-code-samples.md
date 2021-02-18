@@ -5,7 +5,7 @@ tags: []
 image: "/images/desktop-1-2.svg"
 
 ---
-# What's inside?
+# What's inside
 
 * How to achieve FLOW and be able to finally learn without overwhelmed.
 
